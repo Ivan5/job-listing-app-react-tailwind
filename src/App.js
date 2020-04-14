@@ -30,6 +30,7 @@ export default App;
 // 2. Create the Job Board Component ✅
 // 3. Get the data from the JSON ✅
 // 4. Pass down the date to the JBC ✅
-// 5. Style it ✅
+// 5.a. Style desktop ✅
+// 5.b. Style mobile
 // 6. Filter component
 // 7. Filter the data
