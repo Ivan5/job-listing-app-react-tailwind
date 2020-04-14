@@ -77,6 +77,6 @@ export default App;
 // 3. Get the data from the JSON ✅
 // 4. Pass down the date to the JBC ✅
 // 5.a. Style desktop ✅
-// 5.b. Style mobile
-// 6. Filter component
-// 7. Filter the data
+// 5.b. Style mobile ✅
+// 6. Filter component ✅
+// 7. Filter the data ✅
